@@ -1,0 +1,26 @@
+{
+  "name": "await-for-each",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/foreach",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beckan/await-for-each.git"
+  },
+  "keywords": [
+    "js",
+    "node",
+    "async",
+    "await",
+    "forEach"
+  ],
+  "author": "Daniel Bäckström",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beckan/await-for-each/issues"
+  },
+  "homepage": "https://github.com/beckan/await-for-each#readme"
+}
