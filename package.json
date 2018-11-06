@@ -1,5 +1,5 @@
 {
-  "name": "await-for-each",
+  "name": "await-iteration",
   "version": "1.0.0",
   "description": "",
   "main": "lib/foreach",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/beckan/await-for-each.git"
+    "url": "git+https://github.com/beckan/await-iteration.git"
   },
   "keywords": [
     "js",
@@ -20,7 +20,7 @@
   "author": "Daniel Bäckström",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/beckan/await-for-each/issues"
+    "url": "https://github.com/beckan/await-iteration/issues"
   },
-  "homepage": "https://github.com/beckan/await-for-each#readme"
+  "homepage": "https://github.com/beckan/await-iteration#readme"
 }

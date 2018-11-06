@@ -7,14 +7,14 @@ Asynchronous forEach function. To let you await for the forEach.
 Install with nodeJS.
 
 ```console
-npm install await-for-each
+npm install await-iteration
 ```
 
 ## How to use
 
 ```javascript
 // Import the module
-import forEach from 'await-for-each';
+import forEach from 'await-iteration';
 
 // You need to use it inside a async function to be able to wait for it to be finish
 async run () {
